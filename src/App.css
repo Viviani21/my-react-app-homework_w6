@@ -1,37 +1,21 @@
 .App {
   text-align: center;
 }
-
+/*
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
-/* .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
- */
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
-  }
-}
+  } */
+
 /*----------------------- my css ----------------------*/
 /* Header */
 :root {
@@ -126,7 +110,7 @@
 i{
   padding-right: 5px;
 }
- 
+ /* Logo-Name changed Size*/
 @media (max-width: 800px) {
   
 #companyName{
@@ -139,6 +123,7 @@ i{
   }
 }
 
+/* Navbar */
 .nav-links{
   overflow:hidden;
   background-color: white;
@@ -157,7 +142,6 @@ i{
   font-size: 16px; 
 }
 
-/* Navbar */
 .nav-links li a{ 
   color:rgba(79, 53, 48, 1); 
   text-decoration: none;
