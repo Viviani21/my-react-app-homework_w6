@@ -2,7 +2,7 @@
   "name": "my-react-app-homework_w6",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://viviani21.github.io/my-react-app-homework_w6/",
+  "homepage": "https://myusername.github.io/my-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-   
+    "gh-pages": "react-scripts gh-pages"
     
   },
   "eslintConfig": {
