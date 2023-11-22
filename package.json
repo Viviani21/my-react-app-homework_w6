@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
+  "name": "my-react-app-homework_w6",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://viviani21.github.io/my-react-app-homework_w6/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build",
+    "deploy": "gh-pages -b newBrunch -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
