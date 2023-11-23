@@ -1,4 +1,5 @@
-import styled  from 'styled-components';
+// import styled  from 'styled-components';
+
 import './App.css';
 import Header from './Header';
 import Home from './Home';
